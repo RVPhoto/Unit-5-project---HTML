@@ -1,0 +1,67 @@
+body{
+  background-color: lightblue;
+}
+h1{
+  color: blue;
+}
+h2{
+  color: blueviolet;
+}
+h3{
+  color: darkorange;
+}
+#wrapper{
+  width: 80%;
+  margin: auto;
+  background-color: pink;
+  box-shadow: 5px 10px gray;
+}
+div{
+  width: 90%;
+  margin: auto;
+}
+.itembox{
+  border: dashed orange;
+  border-radius: 25px;
+  box-shadow: 2px 15px yellowgreen;
+  background-color: cadetblue;
+  color: aliceblue;
+  padding: 30px;
+}
+.favorite{
+  border: dotted purple;
+  border-radius: 25px;
+  box-shadow: 2px 15px rgb(235, 75, 75);
+  background-color: lightpink;
+  color: whitesmoke;
+  padding: 30px;
+}
+.color{
+  border: dotted purple;
+  border-radius: 15px;
+  box-shadow: 2px 15px rgb(33, 226, 168);
+  background-color: rgb(203, 231, 99);
+  color: rgb(10, 46, 163);
+  padding: 10px;
+}
+ol{
+  background-color: cornflowerblue;
+  padding: 20px;
+  border-radius: 10px; 
+}
+ul{
+  background-color: rgb(55, 186, 190);
+  padding: 20px;
+  border-radius: 10px; 
+}
+ol li{
+  background: blanchedalmond;
+  padding: 5px;
+  border-radius: 10px
+}
+ul li{
+  background: rgb(224, 175, 82);
+  padding: 5px;
+  border-radius: 10px;
+  display: inline;
+}
